@@ -1,4 +1,4 @@
-# UK Escort Rate Statistics 2025
+# UK Escort Rate Statistics 2026
 
 ## Overview
 
@@ -8,7 +8,7 @@ This dataset provides anonymized pricing statistics from verified escort profile
 
 **Dataset:** `uk-escort-rates.json`
 
-**Last Updated:** January 31, 2025
+**Last Updated:** January 31, 2026
 
 ## Key Findings
 
@@ -63,7 +63,7 @@ The JSON file contains:
 
 **Data Source:** Verified profiles on [Lulu Black Directory](https://lulublack.co.uk)
 
-**Collection Period:** January 2025
+**Collection Period:** January 2026
 
 **Sample Size:** 21 verified providers
 
@@ -118,7 +118,7 @@ Learn more at [lulublack.co.uk](https://lulublack.co.uk)
 
 This dataset will be updated periodically as new verified profiles join the directory and market rates evolve.
 
-**Next Update:** Scheduled for Q2 2025
+**Next Update:** Scheduled for Q2 2026
 
 **Follow Updates:** Visit [Lulu Black](https://lulublack.co.uk) for the latest market information.
 
@@ -127,7 +127,7 @@ This dataset will be updated periodically as new verified profiles join the dire
 When using this data, please attribute:
 
 ```
-UK Escort Rate Statistics (2025)
+UK Escort Rate Statistics (2026)
 Source: Lulu Black Directory (https://lulublack.co.uk)
 License: CC0 1.0 Universal
 ```
@@ -146,4 +146,4 @@ For questions about this dataset or to report inaccuracies, visit [Lulu Black Di
 
 **Live Directory:** [https://lulublack.co.uk](https://lulublack.co.uk)
 
-*Supporting transparency and professionalism in the UK escort industry since 2024*
+*Supporting transparency and professionalism in the UK escort industry since 2022*
