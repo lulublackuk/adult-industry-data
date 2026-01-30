@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "dataset_name": "UK Escort Rate Statistics 2025",
+    "description": "Anonymized pricing data from verified UK escort profiles",
+    "source": "Lulu Black Directory",
+    "source_url": "https://lulublack.co.uk",
+    "collection_period": "January 2025",
+    "sample_size": 21,
+    "regions_covered": ["London", "Manchester", "Birmingham", "Bristol", "Scotland", "Oxford"],
+    "last_updated": "2025-01-31",
+    "currency": "GBP"
+  },
+  "rate_statistics_by_duration": {
+    "1_hour": {
+      "sample_size": 2,
+      "average_rate": 550,
+      "median_rate": 550,
+      "min_rate": 500,
+      "max_rate": 600,
+      "note": "Limited data - most escorts start at 2 hours minimum"
+    },
+    "2_hours": {
+      "sample_size": 21,
+      "average_rate": 719,
+      "median_rate": 700,
+      "min_rate": 500,
+      "max_rate": 1000,
+      "most_common_rate": 700
+    },
+    "3_hours": {
+      "sample_size": 20,
+      "average_rate": 940,
+      "median_rate": 900,
+      "min_rate": 650,
+      "max_rate": 1300,
+      "most_common_rate": 900
+    },
+    "4_hours": {
+      "sample_size": 20,
+      "average_rate": 1148,
+      "median_rate": 1100,
+      "min_rate": 800,
+      "max_rate": 1650,
+      "most_common_rate": 1100
+    },
+    "5_hours": {
+      "sample_size": 19,
+      "average_rate": 1345,
+      "median_rate": 1300,
+      "min_rate": 950,
+      "max_rate": 2100,
+      "most_common_rate": 1300
+    },
+    "6_hours": {
+      "sample_size": 18,
+      "average_rate": 1656,
+      "median_rate": 1500,
+      "min_rate": 1100,
+      "max_rate": 2800,
+      "most_common_rate": 1500
+    },
+    "12_hours": {
+      "sample_size": 6,
+      "average_rate": 2600,
+      "median_rate": 2350,
+      "min_rate": 2200,
+      "max_rate": 3500
+    },
+    "14_hours": {
+      "sample_size": 12,
+      "average_rate": 2342,
+      "median_rate": 2200,
+      "min_rate": 1800,
+      "max_rate": 3000,
+      "most_common_rate": 2200
+    },
+    "16_hours": {
+      "sample_size": 4,
+      "average_rate": 2525,
+      "median_rate": 2450,
+      "min_rate": 2300,
+      "max_rate": 3000
+    }
+  },
+  "regional_breakdown": {
+    "London": {
+      "profiles": 17,
+      "avg_2hr_rate": 729,
+      "avg_4hr_rate": 1159,
+      "avg_6hr_rate": 1671,
+      "note": "Highest concentration of providers, widest rate range"
+    },
+    "Manchester": {
+      "profiles": 8,
+      "avg_2hr_rate": 763,
+      "avg_4hr_rate": 1138,
+      "avg_6hr_rate": 1600,
+      "note": "Strong market with consistent mid-to-high rates"
+    },
+    "Birmingham": {
+      "profiles": 9,
+      "avg_2hr_rate": 722,
+      "avg_4hr_rate": 1122,
+      "avg_6hr_rate": 1511,
+      "note": "Competitive rates slightly below London average"
+    },
+    "Bristol": {
+      "profiles": 6,
+      "avg_2hr_rate": 683,
+      "avg_4hr_rate": 1083,
+      "avg_6hr_rate": 1458,
+      "note": "Growing market with mid-range pricing"
+    },
+    "Scotland": {
+      "profiles": 1,
+      "avg_2hr_rate": 850,
+      "avg_4hr_rate": 1650,
+      "avg_6hr_rate": 2500,
+      "note": "Premium pricing, limited sample size"
+    },
+    "Oxford": {
+      "profiles": 1,
+      "avg_2hr_rate": 650,
+      "avg_4hr_rate": 1050,
+      "avg_6hr_rate": 1350,
+      "note": "Single provider, limited data"
+    }
+  },
+  "market_insights": {
+    "most_common_minimum_booking": "2 hours",
+    "rate_progression_pattern": "Diminishing hourly rate for longer bookings",
+    "hourly_rate_calculation": {
+      "2hr_booking": {
+        "total": 719,
+        "per_hour": 360
+      },
+      "4hr_booking": {
+        "total": 1148,
+        "per_hour": 287
+      },
+      "6hr_booking": {
+        "total": 1656,
+        "per_hour": 276
+      },
+      "14hr_booking": {
+        "total": 2342,
+        "per_hour": 167
+      }
+    },
+    "age_demographics": {
+      "25-29": 5,
+      "30-34": 6,
+      "35-39": 6,
+      "40-45": 4,
+      "avg_age": 33.7
+    }
+  },
+  "methodology": {
+    "data_collection": "Rates extracted from verified profiles on Lulu Black directory",
+    "anonymization": "All profiles aggregated, no individual identification possible",
+    "verification": "All providers manually verified by directory administrators",
+    "sample_criteria": "Active profiles with published rates as of January 2025",
+    "calculations": "Averages rounded to nearest pound, medians calculated from sorted values"
+  },
+  "disclaimer": "This data is provided for market research and transparency purposes. Rates are subject to individual negotiation and may vary based on specific requirements, travel, and other factors. This dataset represents a sample of the UK market and should not be considered comprehensive."
+}
